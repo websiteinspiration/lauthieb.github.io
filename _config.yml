@@ -14,6 +14,6 @@ user_title: Software Developer
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-114409076-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
