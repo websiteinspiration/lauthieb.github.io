@@ -1,5 +1,5 @@
 # Site settings
-title: Laurent Thiebault - Software Engineer
+title: Laurent Thiebault - Technical Leader
 description: eat(); sleep(); code(); repeat();
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -10,7 +10,7 @@ user_description: "Currently Technical Leader at Decathlon and graduated of MIAG
 Indeed, passionate about IT, I like to keep abreast of new developments in the field, whether technical (languages, methods and work environment) or leisure (innovation, general public, hi-tech).
 Young, dynamic and voluntary, I love to live my passion by participating in innovative projects while sharing my knowledge."
 
-user_title: Software Engineer
+user_title: Technical Leader
 
 # Google-analytics
 google-analytics:
